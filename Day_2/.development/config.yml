@@ -1,0 +1,7 @@
+APP_PORT: 8080
+DB_DRIVER: "postgres"
+DB_USER: "postgres"
+DB_PASS: "postgres"
+DB_NAME: "tes_alterra"
+DB_HOST: "localhost"
+DB_PORT: 5432
