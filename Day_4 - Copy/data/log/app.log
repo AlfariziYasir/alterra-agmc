@@ -1,0 +1,2 @@
+2022-09-28T16:12:10+07:00 INF internal\http\server.go:46 > starting server on :8080
+2022-09-28T16:12:10+07:00 INF internal\http\server.go:50 > stopped server gracefully
